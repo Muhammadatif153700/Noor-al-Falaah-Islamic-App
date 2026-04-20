@@ -36,7 +36,7 @@ This project is proudly developed and maintained by:
 
 Muhammad Atif (Lead Developer)
 
-📧 Email: ati.here14@gmail.com
+📧 Email: ati.here15@gmail.com
 
 Haseeb (Developer / Support)
 
