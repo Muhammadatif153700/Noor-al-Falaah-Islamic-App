@@ -34,8 +34,9 @@ Development Team:
 
 This project is proudly developed and maintained by:
 
-Lead Developer (Co-Lead) - Abdul Haseeb   &   Lead Developer (Co-Lead) - Muhammad Atif
-Email: abdullhaseeb.co@gmail.com              Email: ati.here15@gmail.com    
+Lead Developer (Co-Lead) - Abdul Haseeb  Email: abdullhaseeb.co@gmail.com  
+Lead Developer (Co-Lead) - Muhammad Atif  Email: ati.here15@gmail.com  
+            
 
 📦 Installation
 
