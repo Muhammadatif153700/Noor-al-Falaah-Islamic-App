@@ -38,7 +38,7 @@ Lead Developer (Co-Lead) - Abdul Haseeb
 Email: abdullhaseeb.co@gmail.com  
 
 Lead Developer (Co-Lead) - Muhammad Atif  
-Email: ati.here15@gmail.com  
+Email: MuhammadAtif04586@gmail.com
             
 
 📦 Installation
